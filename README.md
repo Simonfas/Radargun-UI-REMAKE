@@ -1,4 +1,4 @@
-# Simonfas radargun
+# Simonfas Radargun
 # Radargun UI Remake [Standalone]
 
 [EN]
