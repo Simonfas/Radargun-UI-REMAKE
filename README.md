@@ -13,6 +13,7 @@ Press E to freeze Measurement
 
 You can change this in the Config.lua :)
 
+
 [DA]
 
 Dette er et UI remake af TerbSEC's radar gun / laser gun. 
