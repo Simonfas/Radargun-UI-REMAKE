@@ -45,8 +45,8 @@ Du kan ændre det i Config.lua
  ```lua
 cfg = {}
 
-cfg.menuopen = 246 -- BUTTON TO OPEN MENU (https://docs.fivem.net/game-references/controls/)
-cfg.bottomfreeze = 38 -- FREEZE (https://docs.fivem.net/game-references/controls/)
-cfg.metric = false --// IF METRIC = FALSE THEN IT WILL SHOW AS KM/H, IF METRIC = TRUE, THEN IT WILL CHANGE TO MPH
-cfg.radargun = "WEAPON_VINTAGEPISTOL"
+cfg.menuopen = 246 -- KANPPEN FOR AT ÅBNE MENU'EN (https://docs.fivem.net/game-references/controls/)
+cfg.bottomfreeze = 38 -- FRYS (https://docs.fivem.net/game-references/controls/)
+cfg.metric = false --// HVIS cfg.metric = false SÅ VIL DEN VISE KM/T, HVIS cfg.metric = true, SÅ VIL DEN VISE MPH
+cfg.radargun = "WEAPON_VINTAGEPISTOL" -- HVILKEN PISTOL MAN VIL BRUGE (https://wiki.rage.mp/index.php?title=Weapons)
 ```
